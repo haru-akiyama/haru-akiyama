@@ -11,3 +11,5 @@ I like messing around with JS, Php, Java, C# and Python, though I wouldn't say I
 I'm on
 - Discord (XiaoRu#3126)
 - Genshin Impact (820593984/AR-47/SEA)
+
+![Haru](https://github-readme-stats.vercel.app/api?username=haru-akiyama&show_icons=true&theme=radical)
