@@ -12,5 +12,5 @@ I'm on
 - Discord (XiaoRu#3126)
 - Genshin Impact (820593984/AR-47/SEA)
 
-![Haru](https://github-readme-stats.vercel.app/api?username=haru-akiyama&show_icons=true&theme=radical)
+![Contributions](https://github-readme-stats.vercel.app/api?username=haru-akiyama&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haru-akiyama)
