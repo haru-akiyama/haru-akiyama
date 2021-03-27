@@ -5,3 +5,7 @@ Currently working on :
 - A chat android application
 
 I like messing around with JS, Php, Java, C# and Python, though I wouldn't say I'm very good with either of them.
+
+I'm on
+- Discord (XiaoRu#3126)
+- Genshin Impact (820593984/AR-47/SEA)
