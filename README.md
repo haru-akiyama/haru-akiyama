@@ -4,4 +4,4 @@ Currently working on :
 - A genshin impact based mini-game discord bot
 - A chat android application
 
-I like messing around with JS, Php, Java, C# and Python, though I wouldn't say I'm very good at either of them.
+I like messing around with JS, Php, Java, C# and Python, though I wouldn't say I'm very good with either of them.
