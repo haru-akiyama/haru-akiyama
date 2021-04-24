@@ -5,3 +5,5 @@ I like messing around with JS, Php, Java, C# and Python. Been developing android
 I'm on
 - Discord (XiaoRu#3126)
 - Genshin Impact (820593984/AR-51/WL-7/SEA)
+
+![Haru](https://github-readme-stats.vercel.app/api?username=haru-akiyama&count_private=true)
