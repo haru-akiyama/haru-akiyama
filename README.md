@@ -6,4 +6,4 @@ I'm on
 - Discord (haru_chama#3126)
 - Genshin Impact 820593984/SEA
 
-![Haru](https://github-readme-stats.vercel.app/api?username=haru-akiyama&count_private=true&hide=contribs,prs)
+![Haru](https://github-readme-stats.vercel.app/api?username=haru-chama&count_private=true&hide=contribs,prs)
