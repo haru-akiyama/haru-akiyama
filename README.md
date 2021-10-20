@@ -4,6 +4,6 @@ A full stack developer skilled in android applications, web applications and web
 
 I mainly use Koltin/Java for Android apps and JS for Web Applications.
 
-Preferred Languages : JS, Koltin/Java, Python, C#.
+Preferred Languages : C#, Javascript/Typescript, Java/Kotlin, Python, PHP.
 
-Discord : harushiki#0001
+Discord : ハルちゃん#5404
