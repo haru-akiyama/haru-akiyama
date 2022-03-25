@@ -6,4 +6,4 @@ I mainly use Koltin/Java for Android apps and JS for Web Applications.
 
 Preferred Languages : C#, Javascript/Typescript, Java/Kotlin, Python, PHP.
 
-Discord : littlerainflower#0001
+Discord : 하루#0069
