@@ -6,4 +6,4 @@ I mainly use Koltin/Java for Android apps and JS for Web Applications.
 
 Preferred Languages : C#, Javascript/Typescript, Java/Kotlin, Python, PHP.
 
-Discord : XiaoYuHua#2080
+Discord : hua.#0048
