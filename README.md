@@ -1,9 +1,15 @@
-Hello there, I'm Haru.
+Ningthouba - Full Stack Developer & Student
 
-A full stack developer skilled in android applications, web applications and website development. 
+Hello, fellow developer! 👋
+I am Ningthouba, a passionate full stack developer and dedicated student. With a profound love for technology, I specialize in crafting exceptional Android applications, web applications, and websites.
 
-I mainly use Koltin/Java for Android apps and JS for Web Applications.
+Proficiencies
+Android Development: Kotlin, Java
+Web Development: JavaScript, TypeScript
+Other Languages: C#, Python, PHP
 
-Preferred Languages : C#, Javascript/Typescript, Java/Kotlin, Python, PHP.
+Discord Presence
+You can find me on Discord under the name hua.#0048. Let's connect and engage in stimulating conversations about coding and the vast world of technology!
 
-Discord : hua.#0048
+Research Interests
+I am currently engaged in fascinating research in the realms of Artificial Intelligence (AI) and Machine Learning (ML). Exploring the intricate intricacies of these fields fuels my curiosity and allows me to contribute to groundbreaking advancements.
