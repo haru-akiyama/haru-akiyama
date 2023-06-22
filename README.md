@@ -1,10 +1,4 @@
-<h3 align="center">
- Baal - Full Stack Developer & Student
-</h3>
-
-Hello, fellow developer! 👋
-
-You may call me Baal, a passionate full stack developer and dedicated student. With a profound love for technology, I specialize in crafting exceptional Android applications, web applications, and websites.
+Hua, a passionate full stack developer and dedicated student. With a profound love for technology, I specialize in crafting exceptional Android applications, web applications, and websites.
 
 #### Proficiencies
 - Android Development: Kotlin, Java<br>
